@@ -34,6 +34,6 @@
     <h3>Quieres ser mi nobia?</h3>
     <input type="button" onclick="accionParaCuandoEllaDigaQueSi()" id="btnSi" value="Si" />
     <input type="button" id="btnNo" onmouseover="mueveElBoton()" value="No" />
-    <img src="chuec.png" width="200">
+    
 </body>
 </html>
